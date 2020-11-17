@@ -27,15 +27,18 @@ run () {
   node write-512kb-blocks-static.js
   echo
 
+
   # 1Mb
   echo '> node write-1Mb-blocks.js'
   node write-1Mb-blocks.js
   echo
-  
+
   echo '> node write-1Mb-blocks-static.js'
   node write-1Mb-blocks-static.js
   echo
 
+
+  # 2Mb
   echo '> node write-2Mb-blocks.js'
   node write-2Mb-blocks.js
   echo
@@ -55,11 +58,12 @@ run () {
   node copy-64kb-blocks.js
   echo
 
-  # new
+  # 1Mb
   echo '> node copy-1Mb-blocks.js'
   node copy-1Mb-blocks.js
   echo
 
+  # 2Mb
   echo '> node copy-2Mb-blocks.js'
   node copy-2Mb-blocks.js
   echo
