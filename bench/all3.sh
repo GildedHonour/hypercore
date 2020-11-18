@@ -194,10 +194,18 @@ echo '# clearing cache'
 echo
 clear_cache
 
-echo '# running all benchmarks'
+echo '# running all benchmarks - 2'
+echo
+run
+clear_cache
+
+
+echo '# re-running all benchmarks - 3'
+echo
+run
+clear_cache
+
+echo '# re-running all benchmarks - 4'
 echo
 run
 
-echo '# re-running all benchmarks'
-echo
-run
