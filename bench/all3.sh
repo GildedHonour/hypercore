@@ -208,4 +208,16 @@ clear_cache
 echo '# re-running all benchmarks - 4'
 echo
 run
+clear_cache
 
+
+echo '# re-running all benchmarks - 5'
+echo
+run
+clear_cache
+
+
+echo '# re-running all benchmarks - 6'
+echo
+run
+clear_cache
