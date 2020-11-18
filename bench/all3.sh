@@ -43,9 +43,9 @@ run () {
   node write-2Mb-blocks.js
   echo
 
-  echo '> node write-2Mb-blocks-static.js'
-  node write-2Mb-blocks-static.js
-  echo
+  # echo '> node write-2Mb-blocks-static.js'
+  # node write-2Mb-blocks-static.js
+  # echo
 
 
 
