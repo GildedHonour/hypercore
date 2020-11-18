@@ -19,23 +19,23 @@ run () {
 
 
   # 512Kb
-  echo '> node write-512kb-blocks.js'
-  node write-512kb-blocks.js
-  echo
+  # echo '> node write-512kb-blocks.js'
+  # node write-512kb-blocks.js
+  # echo
 
-  echo '> node write-512kb-blocks-static.js'
-  node write-512kb-blocks-static.js
-  echo
+  # echo '> node write-512kb-blocks-static.js'
+  # node write-512kb-blocks-static.js
+  # echo
 
 
   # 1Mb
-  echo '> node write-1Mb-blocks.js'
-  node write-1Mb-blocks.js
-  echo
+  # echo '> node write-1Mb-blocks.js'
+  # node write-1Mb-blocks.js
+  # echo
 
-  echo '> node write-1Mb-blocks-static.js'
-  node write-1Mb-blocks-static.js
-  echo
+  # echo '> node write-1Mb-blocks-static.js'
+  # node write-1Mb-blocks-static.js
+  # echo
 
 
   # 2Mb
@@ -58,10 +58,10 @@ run () {
   node copy-64kb-blocks.js
   echo
 
-  # 1Mb
-  echo '> node copy-1Mb-blocks.js'
-  node copy-1Mb-blocks.js
-  echo
+  # # 1Mb
+  # echo '> node copy-1Mb-blocks.js'
+  # node copy-1Mb-blocks.js
+  # echo
 
   # 2Mb
   echo '> node copy-2Mb-blocks.js'
@@ -117,21 +117,21 @@ run () {
 
 
   # 1Mb
-  echo '> node read-1Mb-blocks.js'
-  node read-1Mb-blocks.js
-  echo
+  # echo '> node read-1Mb-blocks.js'
+  # node read-1Mb-blocks.js
+  # echo
 
-  echo '> node read-1Mb-blocks-proof.js'
-  node read-1Mb-blocks-proof.js
-  echo
+  # echo '> node read-1Mb-blocks-proof.js'
+  # node read-1Mb-blocks-proof.js
+  # echo
 
-  echo '> node read-1Mb-blocks-linear.js'
-  node read-1Mb-blocks-linear.js
-  echo
+  # echo '> node read-1Mb-blocks-linear.js'
+  # node read-1Mb-blocks-linear.js
+  # echo
 
-  echo '> node read-1Mb-blocks-linear-batch.js'
-  node read-1Mb-blocks-linear-batch.js
-  echo
+  # echo '> node read-1Mb-blocks-linear-batch.js'
+  # node read-1Mb-blocks-linear-batch.js
+  # echo
 
 
   # 2Mb
@@ -165,15 +165,15 @@ run () {
   echo
 
 
-  # 512kb
-  echo '> node replicate-512kb-blocks.js'
-  node replicate-512kb-blocks.js
-  echo
+  # # 512kb
+  # echo '> node replicate-512kb-blocks.js'
+  # node replicate-512kb-blocks.js
+  # echo
 
-  # 1Mb
-  echo '> node replicate-1Mb-blocks.js'
-  node replicate-1Mb-blocks.js
-  echo
+  # # 1Mb
+  # echo '> node replicate-1Mb-blocks.js'
+  # node replicate-1Mb-blocks.js
+  # echo
 
   # 2Mb
   echo '> node replicate-2Mb-blocks.js'
