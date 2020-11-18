@@ -196,8 +196,7 @@ clear_cache
 echo
 echo
 
-
-echo '# running all benchmarks - 2'
+echo '# running all benchmarks #1'
 echo
 run
 clear_cache
@@ -205,7 +204,7 @@ echo
 echo
 
 
-echo '# re-running all benchmarks - 3'
+echo '# running all benchmarks #2'
 echo
 run
 clear_cache
@@ -213,7 +212,7 @@ echo
 echo
 
 
-echo '# re-running all benchmarks - 4'
+echo '# re-running all benchmarks #3'
 echo
 run
 clear_cache
@@ -221,7 +220,7 @@ echo
 echo
 
 
-echo '# re-running all benchmarks - 5'
+echo '# re-running all benchmarks #4'
 echo
 run
 clear_cache
@@ -229,7 +228,15 @@ echo
 echo
 
 
-echo '# re-running all benchmarks - 6'
+echo '# re-running all benchmarks #5'
+echo
+run
+clear_cache
+echo
+echo
+
+
+echo '# re-running all benchmarks #6'
 echo
 run
 clear_cache
