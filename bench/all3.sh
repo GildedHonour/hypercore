@@ -99,21 +99,21 @@ run () {
 
 
   # 512Kb
-  echo '> node read-512Kb-blocks.js'
-  node read-512Kb-blocks.js
-  echo
+  # echo '> node read-512Kb-blocks.js'
+  # node read-512Kb-blocks.js
+  # echo
 
-  echo '> node read-512Kb-blocks-proof.js'
-  node read-512Kb-blocks-proof.js
-  echo
+  # echo '> node read-512Kb-blocks-proof.js'
+  # node read-512Kb-blocks-proof.js
+  # echo
 
-  echo '> node read-512Kb-blocks-linear.js'
-  node read-512Kb-blocks-linear.js
-  echo
+  # echo '> node read-512Kb-blocks-linear.js'
+  # node read-512Kb-blocks-linear.js
+  # echo
 
-  echo '> node read-512Kb-blocks-linear-batch.js'
-  node read-512Kb-blocks-linear-batch.js
-  echo
+  # echo '> node read-512Kb-blocks-linear-batch.js'
+  # node read-512Kb-blocks-linear-batch.js
+  # echo
 
 
   # 1Mb
